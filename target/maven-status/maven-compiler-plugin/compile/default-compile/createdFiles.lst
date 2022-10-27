@@ -1,0 +1,6 @@
+com/rabbitmq/service/ProducerService.class
+com/rabbitmq/configuration/RabbitMQConfiguration.class
+com/rabbitmq/service/ConsumerService.class
+com/rabbitmq/controller/RabbitMQController.class
+com/rabbitmq/model/RabbitMessage.class
+com/rabbitmq/Application.class

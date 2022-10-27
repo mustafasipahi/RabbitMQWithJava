@@ -1,0 +1,6 @@
+/Users/mustafasabitsipahi/IdeaProjects/RabbitMQWithJava/src/main/java/com/rabbitmq/model/RabbitMessage.java
+/Users/mustafasabitsipahi/IdeaProjects/RabbitMQWithJava/src/main/java/com/rabbitmq/configuration/RabbitMQConfiguration.java
+/Users/mustafasabitsipahi/IdeaProjects/RabbitMQWithJava/src/main/java/com/rabbitmq/Application.java
+/Users/mustafasabitsipahi/IdeaProjects/RabbitMQWithJava/src/main/java/com/rabbitmq/controller/RabbitMQController.java
+/Users/mustafasabitsipahi/IdeaProjects/RabbitMQWithJava/src/main/java/com/rabbitmq/service/ConsumerService.java
+/Users/mustafasabitsipahi/IdeaProjects/RabbitMQWithJava/src/main/java/com/rabbitmq/service/ProducerService.java
